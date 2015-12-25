@@ -5,7 +5,7 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
     </dependencies>
     <scenes>
-        <!--Root View Controller-->
+        <!--FavShop List-->
         <scene sceneID="Vdz-yg-LQZ">
             <objects>
                 <tableViewController id="W4u-2j-Kwl" sceneMemberID="viewController">
@@ -28,7 +28,7 @@
                             <outlet property="delegate" destination="W4u-2j-Kwl" id="cj5-0e-Kvf"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="WrR-cX-SUQ"/>
+                    <navigationItem key="navigationItem" title="FavShop List" id="WrR-cX-SUQ"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nje-uX-IkE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
